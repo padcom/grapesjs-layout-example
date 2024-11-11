@@ -1,0 +1,20 @@
+{
+  "name": "@padcom/grapesjs-layout-example",
+  "version": "0.0.1",
+  "author": "Matthias Hryniszak <padcom@gmail.com>",
+  "homepage": "https://github.com/padcom/grapesjs-layout-example#readme",
+  "bugs": {
+    "url": "https://github.com/padcom/grapesjs-layout-example/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/padcom/grapesjs-layout-example.git"
+  },
+  "scripts": {
+    "start": "live-server ."
+  },
+  "devDependencies": {
+    "grapesjs": "^0.21.7",
+    "live-server": "^1.2.2"
+  }
+}
